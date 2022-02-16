@@ -38,3 +38,4 @@ print(inverse)
 ![output](./images/111.jpg)
 
 ## RESULT:
+The program to find the inverse of a nested array is successful.
